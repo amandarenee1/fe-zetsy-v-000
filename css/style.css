@@ -42,4 +42,18 @@ h2 {
 #featured img {
   border: 5px rbg(152,173,166);
 }
+
+.small {
+  font-size: 0.8em;
+}
+
+p {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+
 /* Write all remaining styles here */
