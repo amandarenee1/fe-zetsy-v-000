@@ -55,5 +55,8 @@ p {
   -webkit-margin-end: 0px;
 }
 
-
+footer {
+  text-align: right;
+  background: #fff;
+}
 /* Write all remaining styles here */
